@@ -9,3 +9,10 @@ Created automated scrapers using Selenium webdriver in python which extracted da
 Classified and massaged raw extracted text/JSON data into useful data sets using python libraries.
 
 Plotted extracted data using the google maps API and python matpotlib after analyzing datasets.
+
+
+# todo
+
+Compress datasets to .tar
+
+Write orchestration scripts to execute project
